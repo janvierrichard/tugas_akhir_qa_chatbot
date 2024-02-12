@@ -1,0 +1,7 @@
+langchain
+streamlit
+transformers
+wikipedia
+torch
+pydantic
+deeplake
